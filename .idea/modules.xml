@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW-10.1/HW-10.1.iml" filepath="$PROJECT_DIR$/HW-10.1/HW-10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-10.2/HW-10.2.iml" filepath="$PROJECT_DIR$/HW-10.2/HW-10.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-11.1/HW-11.1.iml" filepath="$PROJECT_DIR$/HW-11.1/HW-11.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-12.1/HW-12.1.iml" filepath="$PROJECT_DIR$/HW-12.1/HW-12.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-13.1/HW-13.1.iml" filepath="$PROJECT_DIR$/HW-13.1/HW-13.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-13.2/HW-13.2.iml" filepath="$PROJECT_DIR$/HW-13.2/HW-13.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-14.1/HW-14.1.iml" filepath="$PROJECT_DIR$/HW-14.1/HW-14.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-14.2/HW-14.2.iml" filepath="$PROJECT_DIR$/HW-14.2/HW-14.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-15.1/HW-15.1.iml" filepath="$PROJECT_DIR$/HW-15.1/HW-15.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-16.1/HW-16.1.iml" filepath="$PROJECT_DIR$/HW-16.1/HW-16.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW-8.1/HW-8.1.iml" filepath="$PROJECT_DIR$/HW-8.1/HW-8.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW-8.2/HW-8.2.iml" filepath="$PROJECT_DIR$/HW-8.2/HW-8.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW-9.1/HW-9.1.iml" filepath="$PROJECT_DIR$/HW-9.1/HW-9.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/first.iml" filepath="$PROJECT_DIR$/first.iml" />
     </modules>
   </component>
