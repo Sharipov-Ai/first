@@ -12,4 +12,4 @@ public class Multiplication {
             System.out.println(number + " x " + i + " = " + number * i);
         }
     }
-} /////
+}
